@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp_Training_session2.props" />
+</Project>
